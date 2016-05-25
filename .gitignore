@@ -1,0 +1,8 @@
+*.sqlite3
+*.pyc
+*.e4p
+__pycache__
+_eric6project
+*.prj
+venv
+*.komodoproject
